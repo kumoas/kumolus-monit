@@ -13,6 +13,7 @@ Just like any other gem:
 
     status = Monit::Status.new({ :host => "monit.myserver.com",
                                  :path => "/monitor",
+                                 :port => 433,
                                  :auth => true,
                                  :username => "foo",
                                  :password => "bar" })

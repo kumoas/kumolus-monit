@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "Connect to Kumolus Monit"
   spec.description   = "Retrieve server information from Monit."
-  spec.homepage      = "http://github.com/kumolus/kumolus-monit"
+  spec.homepage      = "https://github.com/kumoas/kumolus-monit"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
