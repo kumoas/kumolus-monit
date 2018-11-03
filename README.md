@@ -12,6 +12,7 @@ Just like any other gem:
 ## Usage
 
     status = Monit::Status.new({ :host => "monit.myserver.com",
+                                 :path => "/monitor",
                                  :auth => true,
                                  :username => "foo",
                                  :password => "bar" })
